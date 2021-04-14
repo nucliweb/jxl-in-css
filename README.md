@@ -1,7 +1,7 @@
 # JPEG XL in CSS
 
 <img src="https://github.com/nucliweb/jxl-in-css/blob/main/assets/jpegxl.svg?raw=true" align="right"
-     alt="JPEG XL logo" width="180" height="100">
+     alt="JPEG XL logo" width="70" height="80">
 
 [PostCSS] plugin and tiny JS script *(150B)* to use[JPEG XL] in CSS background
 

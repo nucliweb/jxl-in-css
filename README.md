@@ -36,9 +36,10 @@ body.no-jxl .logo {
 ```
 
 ## Usage
+
 ### 1. Convert to JXL
 
-Convert you images to jxl format, you can use [Squoosh]
+Convert you images to jxl format, you can use [Squoosh], [JPEGXL.io], or take a look to the software list on [JPEGXL.info]
 
 ### 2. Install `jxl-in-css`
 
@@ -121,11 +122,13 @@ module.exports = {
 
 ## Supported browsers
 
-* [Chrome Canary] 92+ with **Enabled JXL image format** `chrome://flags/#enable-jxl`
-
+* Chrome 92+ with **Enabled JXL image format** `chrome://flags/#enable-jxl`
+* Firefox 90+ with the image.jxl.enabled flag in about:config in Nightly only.
+* Edge 91+ with the --enable-features=JXL runtime flag. 
 
 [PostCSS]: https://github.com/postcss/postcss
 [JPEG XL]: https://jpeg.org/jpegxl/
 [Squoosh]: https://squoosh.app/
 [postcss-loader]: https://github.com/postcss/
-[Chrome Canary]: https://www.google.com/intl/es/chrome/canary/
+[JPEGXL.io]: https://jpegxl.io/
+[JPEGXL.info]: https://jpegxl.info/

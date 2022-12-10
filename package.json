@@ -53,6 +53,6 @@
     "jest-ci": "^0.1.1",
     "jest-cli": "^26.6.3",
     "nanodelay": "^1.0.8",
-    "postcss": "^8.2.10"
+    "postcss": "8.2.10"
   }
 }
